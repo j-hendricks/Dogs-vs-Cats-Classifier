@@ -3,7 +3,7 @@ Optimized accuracy of CNN when classifying images of cats and dogs
 
 ## Overview
 
-Code provided by a YouTube tutorial was improved upon using dropout and augmentation methods. It was found that augmentation by itself performed better than augmentation and dropout combined. This corroborates previous research findings.
+Code provided by a [YouTube tutorial](https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab6-Cats-v-Dogs.ipynb) was improved upon using dropout and augmentation methods. It was found that augmentation by itself performed better than augmentation and dropout combined. This corroborates previous research findings.
 
 ## Results
 
@@ -17,7 +17,7 @@ Code provided by a YouTube tutorial was improved upon using dropout and augmenta
 
 ![second](images/second_performance.png)
 
-![second_loss](images/second_performance_loss.png)
+![second_loss](images/second_performance_lss.png)
 
 ### Results Using Augmentation Only
 
